@@ -1,7 +1,2 @@
 # the-first
-pushできるか確認
-
-もう一度確認
-
-git fetch
-git checkout ticket1
+ブランチを切ったり、マージしたりの練習です
